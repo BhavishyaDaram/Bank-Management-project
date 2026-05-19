@@ -23,13 +23,9 @@ A simple Bank Management System built using Python and Streamlit that allows use
 
 ---
 
-## 📸 Demo
-![App Screenshot](screenshot.png)
-
----
 
 ## ⚙️ Installation
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/streamlit-bank-app.git
+git clone https://github.com/BhavishyaDaram/streamlit-bank-app.git
